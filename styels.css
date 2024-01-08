@@ -6,6 +6,7 @@
     padding: 169px;
     background-size: 1000px;
     opacity: 0.9;
+    align-items: center;
 
 }
 .title-head{
@@ -26,4 +27,36 @@
     margin-top: 15px;
     margin-left: 344px;
     margin-right: 344px;
+}
+.discount{
+    color: red;
+    text-align: center;
+    margin-top: 270px;
+    font-weight: 700;
+    font-size: 88px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0;
+
+}
+.paragraph{
+    color: red;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 22px;
+    margin-bottom: 0;
+}
+.all{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 48px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 8px;
+}
+.new-year-image{
+    display: block;
+    margin-left: 180px;
+    margin-right: 259px;
+    width: 65%;
+    background-position: bottom;
+
 }
